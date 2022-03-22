@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React, Redux, JavaScript, Node.js and pandemic-inspired cooking.**
 
-- 👯 I’m looking to collaborate on **cryptocurrency, DeFi, and dApp projects**
+- 👯 I’m looking to collaborate on **cryptocurrency, DeFi, or any thoughtprovoking projects**
 
-- 💬 Ask me about **any musical genre except country, finance, sports and global politics.**
+- 💬 Ask me about **my favorite music, finance, sports and global politics.**
 
 - 📫 How to reach me **michael.enslein@gmail.com**
 
