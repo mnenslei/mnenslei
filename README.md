@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Redux, JavaScript, Node.js and pandemic-inspired cooking.**
 
-- 👯 I’m looking to collaborate on **cryptocurrency, DeFi, or any thoughtprovoking projects**
+- 👯 I’m looking to collaborate on **cryptocurrency, DeFi, or any thought-provoking projects**
 
 - 💬 Ask me about **my favorite music, finance, sports and global politics.**
 
