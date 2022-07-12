@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **improving my overall coding skills**
 
-- 🌱 I’m currently learning **React, Redux, JavaScript, Node.js and pandemic-inspired cooking.**
+- 🌱 I’m consistently learning **React, Redux, JavaScript, Node.js and pandemic-inspired cooking.**
 
 - 👯 I’m looking to collaborate on **cryptocurrency, DeFi, or any thought-provoking projects**
 
